@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
