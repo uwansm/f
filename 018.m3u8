@@ -5,3 +5,7 @@ https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=30
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115500&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
+http://tvt3.xyz/play/live.php?mac=00:1a:79:00:04:02&stream=115547&extension=m3u8
