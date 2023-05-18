@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=819
